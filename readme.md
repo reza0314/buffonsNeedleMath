@@ -1,10 +1,6 @@
 
 # Buffon`s needle
 
-### Name: Seyed Mohammad Amin Sadat
-
-### Student number: 401436077
-
 ### Course: Advanced Mathematics
 
 For this problem the needle length is l,x is the minimum distance between lines and middle of the needles, $\theta$ is the angle between lines and needle and d is the distance between two parallel lines.
